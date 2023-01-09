@@ -75,7 +75,7 @@
             </p>
         </div>
 				<div class="pt-6">
-				<span>Get connected with Joan on social networks:</span>
+				<span>Follow Joan on social media</span>
 				</div>
       </article>
   </div>
