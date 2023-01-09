@@ -74,6 +74,9 @@
                 My self-care and self love is a dynamic and enriching connection with my True Nature. I've strung a network of communities around me that supports my spiritual needs and strengthens my tenacity. I spend time practicing rituals like making fire and communing with water. I'm out in nature sitting with the trees and connecting with the sun, the clouds, the grass, the soil, the flowers, the insects, the wind. My self-care has me in nature a lot connecting with the Presence of the elements and the radiance of nature's ecosystem. This is also another form of community I'm in relationship with. My concept of care evolved by being in Nature. I practice Being with, In harmony. Nature helps me Be with myself so I can learn who I am and what my needs are.
             </p>
         </div>
+				<div class="pt-6">
+				<span>Get connected with Joan on social networks:</span>
+				</div>
       </article>
   </div>
 </main>

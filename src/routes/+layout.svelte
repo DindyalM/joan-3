@@ -69,12 +69,10 @@
        <div class="invisible">Bughuhu<div>
       </a>
        
-      <a href="https://ko-fi.com/freshwatersociety" class="text-gray-600">
+      <a href="https://joanrupram.substack.com" class="text-gray-600">
       <img src="https://substackcdn.com/image/fetch/e_trim:10:white/e_trim:10:transparent/h_56,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0e513e8f-7e94-4af4-af2f-e769735a12f0_1344x256.jpeg" alt="Jae &amp; The Goddexx " class="navbar-logo-wordmark ">
       </a>
-    </div>
-
-    
+    </div> 
   </div>
 </footer>
 </div>
