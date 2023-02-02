@@ -13,11 +13,10 @@
           <header class="mb-4 lg:mb-6 not-format">
               <address class="flex items-center mb-6 not-italic">
                   <div class="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white pl-7">
-                      <img class="mr-8 w-60 h-50" src="https://scontent.fyto1-1.fna.fbcdn.net/v/t39.30808-6/315638247_549892217144386_5144615628291409476_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=c_oZT6eUFVAAX8KlPrx&_nc_ht=scontent.fyto1-1.fna&oh=00_AfB1K72MeLQefscBhG0tzgZVJS34h_a0u532hsbVr-e_JQ&oe=63C0CF91" alt="Jese Leos">
+                      <img class="mr-8 w-60 h-50" src="src/lib/images/svelte-welcome.png" alt="Joan Laxmie Rupram">
                       <div>
                           <a href="https://www.linkedin.com/in/joanrupram/" rel="author" class="text-3xl font-bold text-black-900 dark:text-black">Joan Laxmie Rupram</a>
                           <p class="text-base font-light text-gray-500 dark:text-gray-400 text-base">Self-Care Then & Now</p>
-                          
                       </div>
                 </div>
               </address>
