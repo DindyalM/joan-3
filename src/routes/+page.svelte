@@ -13,13 +13,14 @@
           <header class="mb-4 lg:mb-6 not-format">
               <address class="flex items-center mb-6 not-italic">
                   <div class="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white pl-7">
-                      <img class="mr-8 w-80 h-100" src="https://images.squarespace-cdn.com/content/v1/5ef17f0e214de870914df617/1618342005933-DCRALEZJH9UC0RCXA1XD/IMG_6502.JPG?format=1500w" alt="Joan Laxmie Rupram">
-                      <div>
-                          <a href="https://www.linkedin.com/in/joanrupram/" rel="author" class="text-3xl font-bold text-black-900 dark:text-black">Joan Laxmie Rupram</a>
-                          <p class="text-base font-light text-gray-500 dark:text-gray-400 text-base">Self-Care Then & Now</p>
-                      </div>
+                      <img class="mr-8 w-25 h-100" src="https://images.squarespace-cdn.com/content/v1/5ef17f0e214de870914df617/1618342005933-DCRALEZJH9UC0RCXA1XD/IMG_6502.JPG?format=1500w" alt="Joan Laxmie Rupram">
                 </div>
               </address>
+                    <div>
+                          <a href="https://www.linkedin.com/in/joanrupram/" rel="author" class="text-3xl font-bold text-black-900 dark:text-black">Joan Laxmie Rupram</a>
+                          <p class="text-base font-light text-gray-500 dark:text-gray-400 text-base">Self-Care Then & Now</p>
+                        <br>
+                      </div>
               <h1 class="mb-6 text-4xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-black">Joan's Bio</h1>
           </header>
           <div name="Joan intro">
