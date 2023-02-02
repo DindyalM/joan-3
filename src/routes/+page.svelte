@@ -13,7 +13,7 @@
           <header class="mb-4 lg:mb-6 not-format">
               <address class="flex items-center mb-6 not-italic">
                   <div class="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white pl-7">
-                      <img class="mr-8 w-60 h-50" src="https://scontent.fyzd1-3.fna.fbcdn.net/v/t39.30808-6/315638247_549892217144386_5144615628291409476_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=MRGk9ex0NYEAX9MbV74&_nc_ht=scontent.fyzd1-3.fna&oh=00_AfBUIqJsr91SH-QhLrsF_UMLPHX9z0vSYSM4k-jWhBPwbw&oe=63E07391" alt="Joan Laxmie Rupram">
+                      <img class="mr-8 w-60 h-50" src="https://images.squarespace-cdn.com/content/v1/5ef17f0e214de870914df617/1618342005933-DCRALEZJH9UC0RCXA1XD/IMG_6502.JPG?format=1500w" alt="Joan Laxmie Rupram">
                       <div>
                           <a href="https://www.linkedin.com/in/joanrupram/" rel="author" class="text-3xl font-bold text-black-900 dark:text-black">Joan Laxmie Rupram</a>
                           <p class="text-base font-light text-gray-500 dark:text-gray-400 text-base">Self-Care Then & Now</p>
