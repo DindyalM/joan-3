@@ -13,7 +13,7 @@
           <header class="mb-4 lg:mb-6 not-format">
               <address class="flex items-center mb-6 not-italic">
                   <div class="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white pl-7">
-                      <img class="mr-8 w-60 h-50" src="src/lib/images/svelte-welcome.png" alt="Joan Laxmie Rupram">
+                      <img class="mr-8 w-60 h-50" src="src/lib/images/image0.jpeg" alt="Joan Laxmie Rupram">
                       <div>
                           <a href="https://www.linkedin.com/in/joanrupram/" rel="author" class="text-3xl font-bold text-black-900 dark:text-black">Joan Laxmie Rupram</a>
                           <p class="text-base font-light text-gray-500 dark:text-gray-400 text-base">Self-Care Then & Now</p>
